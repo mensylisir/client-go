@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module kubesphere.io/client-go
+module github.com/mensylisir/client-go
 
 go 1.19
 
